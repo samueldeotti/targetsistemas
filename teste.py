@@ -1,4 +1,21 @@
-#3
+# 1) 91
+
+# 3) 
+
+# a) 9
+
+# b) 128
+
+# c) 49
+
+# d) 100
+
+#e) 13
+
+# f) 200
+
+
+#2
 def is_in_fibonacci(number): 
   a, b = 0, 1 while b < number: a, b = b, a + b 
   return b == number or number == 0
